@@ -1,7 +1,7 @@
 //1
 
 let user = {
-    name: "John"
+  name: "John",
 };
 
 user.age = parseInt(prompt("Введите ваш возраст:"));

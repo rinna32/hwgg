@@ -7,6 +7,6 @@ console.log("Сумма элементов массива:", sum);
 
 // 2
 
-let b = a.map(x => x * 2);
+let b = a.map((x) => x * 2);
 console.log("Исходный массив:", a);
 console.log("Новый массив (удвоенные значения):", b);
